@@ -4,7 +4,7 @@
     sample1.go  string => slice  
     sample2.go  slice => string  
 
-# English 
+  '<English>' 
   This is a sample Code of Go-lang type-conversion  
   All Source Convert 'aaa' to 'bbb'  
   
