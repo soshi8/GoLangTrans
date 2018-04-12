@@ -7,4 +7,5 @@
   `<English>`   
   This is a sample Code of Go-lang type-conversion  
   All Source Convert 'aaa' to 'bbb'  
-  
+  Please read the explanation of Japanese.  
+  If you are in trouble Google translation helps!  
