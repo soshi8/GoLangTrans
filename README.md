@@ -1,4 +1,5 @@
-# GolangでA to B
+# 変換してGolang  
+　（ごめんなさい。タイトルは駄洒落です）
   go言語の変換サンプルを載せていくつもりです。  
   すべてaaa から bbbへの変換で作成します。  
     sample1.go  string => slice  
