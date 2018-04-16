@@ -1,8 +1,8 @@
 # 変換してGolang  
 　（ごめんなさい。タイトルは駄洒落です）  
   go言語の変換サンプルを載せていくつもりです。  
-  すべて変換元：aaa から 変換先：bbb で作成します。  ：
-    sample1.go  string => slice  
+  すべて変換元：aaa から 変換先：bbb で作成します。  
+    sample1.go  string => slice  
     sample2.go  slice => string  
     sample3.go  slice => array  
     sample4.go  array => slice  
