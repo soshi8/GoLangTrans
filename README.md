@@ -6,8 +6,8 @@
     sample2.go  slice => string  
     sample3.go  slice => array  
     sample4.go  array => slice  
-    sample5.go  uint16 => []byte (Little Enddian)
-    sample6.go  []byte => Uint32 (Little Enddian)
+    sample5.go  uint16 => []byte (Little Enddian)  
+    sample6.go  []byte => Uint32 (Little Enddian)  
 
   `<English>`   
   This is a sample Code of Go-lang type-conversion  
